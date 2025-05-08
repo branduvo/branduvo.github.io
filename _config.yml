@@ -1,0 +1,7 @@
+title: Branduvo
+description: Affiliate marketing site for top productivity tools.
+baseurl: ""
+url: "https://branduvo.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
