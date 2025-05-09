@@ -61,7 +61,7 @@ Entrepreneurs can automate everything from lead generation to customer onboardin
 
 ## 5. FreshBooks - Streamlined Accounting
 
-Financial management can be overwhelming for entrepreneurs, but [FreshBooks]({{ site.baseurl }}/products/freshbooks/) simplifies the process with intuitive accounting features.
+Financial management can be overwhelming for entrepreneurs, but [FreshBooks]({{ site.baseurl }}/products/freshbooks.html) simplifies the process with intuitive accounting features.
 
 **Key Benefits:**
 - Professional invoice creation
