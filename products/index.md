@@ -15,7 +15,7 @@ Discover our carefully selected range of productivity and marketing tools design
       <div class="product-card">
         <a href="{{ site.baseurl }}{{ product.url }}">
           <div class="product-image">
-            <img src="{{ site.baseurl }}/assets/images/products/{{ product.name | remove: '.md' }}.png" alt="{{ product.title }}" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.png'">
+            <img src="{{ site.baseurl }}/assets/images/products/{{ product.name | remove: '.md' }}-logo.png" alt="{{ product.title }}" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.png'">
           </div>
           <h3>{{ product.title }}</h3>
           <p>{{ product.description }}</p>
