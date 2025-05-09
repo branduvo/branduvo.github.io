@@ -2,7 +2,7 @@
 layout: post
 title: "5 Best Accounting Software Solutions for Small Businesses in 2023"
 date: 2023-07-01
-categories: [Finance, Business Tools]
+categories: [Finance, Business_Tools]
 author: "Amelia Rodriguez"
 excerpt: "Finding the right accounting software is crucial for small business success. Discover our top picks for 2023 that balance features, usability, and value."
 ---
