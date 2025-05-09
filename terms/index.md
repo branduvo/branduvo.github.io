@@ -30,7 +30,7 @@ Our Service allows you to browse information and reviews about various products 
 
 ## 3. Affiliate Disclosure
 
-Branduvo participates in various affiliate marketing programs, which means we may get paid commissions on products purchased through our links to retailer sites. Our recommendations and reviews are based on our honest opinions and research, and the affiliate commission has no impact on the ranking or inclusion of products. Please see our [Affiliate Disclaimer](/affiliate-disclaimer) for more information.
+Branduvo participates in various affiliate marketing programs, which means we may get paid commissions on products purchased through our links to retailer sites. Our recommendations and reviews are based on our honest opinions and research, and the affiliate commission has no impact on the ranking or inclusion of products. Please see our [Affiliate Disclaimer](/affiliate-disclaimer/) for more information.
 
 ## 4. User Contributions
 
