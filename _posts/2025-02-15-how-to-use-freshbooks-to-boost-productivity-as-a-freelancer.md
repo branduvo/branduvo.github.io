@@ -11,7 +11,7 @@ excerpt: "Discover how FreshBooks can streamline your financial management, auto
 
 Financial management ranks among the top productivity killers for freelancers. Studies show the average self-employed professional spends 15 hours monthly on accounting tasks—tracking expenses, creating invoices, following up on payments, and preparing for tax season. That's 180 hours annually that could be spent on billable work or building your business.
 
-Enter [FreshBooks]({{ site.baseurl }}/products/freshbooks.html), the cloud accounting solution that has evolved from a simple invoicing tool to a comprehensive freelancer financial management system. In 2025, FreshBooks has become an essential productivity hub for freelancers looking to minimize administrative work, maintain financial clarity, and spend more time doing what they love.
+Enter [FreshBooks]({{ site.baseurl }}/products/freshbooks/), the cloud accounting solution that has evolved from a simple invoicing tool to a comprehensive freelancer financial management system. In 2025, FreshBooks has become an essential productivity hub for freelancers looking to minimize administrative work, maintain financial clarity, and spend more time doing what they love.
 
 ## The Hidden Cost of Manual Financial Management
 
@@ -321,7 +321,7 @@ This multifaceted impact makes FreshBooks one of the highest-ROI productivity in
 
 Beyond mere productivity, the peace of mind that comes from knowing your financial house is in order allows you to focus your energy and creativity on the work you're truly passionate about—the reason you became a freelancer in the first place.
 
-Ready to transform your financial management and reclaim hours of productive time? [Try FreshBooks free for 30 days]({{ site.baseurl }}/products/freshbooks.html) and experience the difference that streamlined financial systems can make for your freelance business.
+Ready to transform your financial management and reclaim hours of productive time? [Try FreshBooks free for 30 days]({{ site.baseurl }}/products/freshbooks/) and experience the difference that streamlined financial systems can make for your freelance business.
 
 ---
 

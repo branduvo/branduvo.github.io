@@ -11,7 +11,7 @@ excerpt: "Discover how Grammarly can transform your freelance workflow, save hou
 
 For freelancers across all industries, clear and error-free communication is non-negotiable. Whether you're crafting client proposals, creating content deliverables, or simply managing daily emails, the quality of your writing directly impacts your professional reputation and earning potential.
 
-Enter [Grammarly]({{ site.baseurl }}/products/grammarly.html), the AI-powered writing assistant that has evolved far beyond simple spell-checking. In 2025, Grammarly has become an indispensable productivity tool for freelancers looking to streamline their workflow, enhance their writing quality, and deliver more polished work to clients.
+Enter [Grammarly]({{ site.baseurl }}/products/grammarly/), the AI-powered writing assistant that has evolved far beyond simple spell-checking. In 2025, Grammarly has become an indispensable productivity tool for freelancers looking to streamline their workflow, enhance their writing quality, and deliver more polished work to clients.
 
 ## The Hidden Cost of Poor Writing for Freelancers
 
@@ -256,7 +256,7 @@ This compound effect makes Grammarly one of the highest-ROI productivity investm
 
 Beyond mere productivity, the confidence that comes from knowing your communications are flawless allows you to focus on what truly matters – delivering exceptional value to your clients and growing your freelance business.
 
-Ready to transform your freelance writing productivity? [Try Grammarly Premium]({{ site.baseurl }}/products/grammarly.html) and experience the difference that professional-grade communication can make for your business.
+Ready to transform your freelance writing productivity? [Try Grammarly Premium]({{ site.baseurl }}/products/grammarly/) and experience the difference that professional-grade communication can make for your business.
 
 ---
 

@@ -27,7 +27,7 @@ The challenge? Most freelancers aren't trained designers, and traditional design
 
 ## What Makes Canva the Ultimate Freelancer Design Solution
 
-[Canva]({{ site.baseurl }}/products/canva.html) has revolutionized design for non-designers, but its value proposition is particularly strong for freelancers in 2025. Here's why:
+[Canva]({{ site.baseurl }}/products/canva/) has revolutionized design for non-designers, but its value proposition is particularly strong for freelancers in 2025. Here's why:
 
 ### 1. Zero Learning Curve in a Time-Starved Profession
 
@@ -193,7 +193,7 @@ By incorporating Canva into your freelance workflow, you're not just creating pr
 
 For freelancers who want to position themselves as premium providers in their field, mastering visual communication through an accessible tool like Canva represents one of the highest-leverage skills you can develop in 2025.
 
-Ready to transform your freelance business with professional visuals? [Try Canva Pro free for 30 days]({{ site.baseurl }}/products/canva.html) and experience the difference visual communication can make for your clients and your business.
+Ready to transform your freelance business with professional visuals? [Try Canva Pro free for 30 days]({{ site.baseurl }}/products/canva/) and experience the difference visual communication can make for your clients and your business.
 
 ---
 
