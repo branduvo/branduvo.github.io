@@ -13,7 +13,7 @@ After testing hundreds of tools and interviewing successful entrepreneurs, we've
 
 ## 1. Calendly - Streamlined Scheduling
 
-Managing meetings can be a huge time drain. The back-and-forth emails trying to find a suitable time slot can eat up hours of your week. [Calendly]({{ site.baseurl }}/products/calendly/) solves this problem by allowing others to book time on your calendar based on your availability.
+Managing meetings can be a huge time drain. The back-and-forth emails trying to find a suitable time slot can eat up hours of your week. [Calendly]({{ site.baseurl }}/products/calendly.html) solves this problem by allowing others to book time on your calendar based on your availability.
 
 **Key Benefits:**
 - Eliminates scheduling emails
@@ -37,7 +37,7 @@ Notion's versatility makes it ideal for entrepreneurs who want to consolidate th
 
 ## 3. Grammarly - Writing Enhancement
 
-Clear communication is crucial for business success. [Grammarly]({{ site.baseurl }}/products/grammarly/) helps ensure your emails, content, and communications are polished and professional.
+Clear communication is crucial for business success. [Grammarly]({{ site.baseurl }}/products/grammarly.html) helps ensure your emails, content, and communications are polished and professional.
 
 **Key Benefits:**
 - Real-time grammar and spelling corrections
@@ -61,7 +61,7 @@ Entrepreneurs can automate everything from lead generation to customer onboardin
 
 ## 5. FreshBooks - Streamlined Accounting
 
-Financial management can be overwhelming for entrepreneurs, but [FreshBooks]({{ site.baseurl }}/products/freshbooks/) simplifies the process with intuitive accounting features.
+Financial management can be overwhelming for entrepreneurs, but [FreshBooks]({{ site.baseurl }}/products/freshbooks.html) simplifies the process with intuitive accounting features.
 
 **Key Benefits:**
 - Professional invoice creation
@@ -73,7 +73,7 @@ FreshBooks' user-friendly interface makes accounting tasks less daunting, helpin
 
 ## 6. Canva - Design Simplified
 
-Visual content is essential for marketing, but not everyone has design skills. [Canva]({{ site.baseurl }}/products/canva/) democratizes design with templates and drag-and-drop functionality.
+Visual content is essential for marketing, but not everyone has design skills. [Canva]({{ site.baseurl }}/products/canva.html) democratizes design with templates and drag-and-drop functionality.
 
 **Key Benefits:**
 - Professional templates for various platforms
@@ -85,7 +85,7 @@ With Canva, entrepreneurs can create professional-looking marketing materials, s
 
 ## 7. ConvertKit - Email Marketing
 
-Building and nurturing an email list remains one of the most effective marketing strategies. [ConvertKit]({{ site.baseurl }}/products/convertkit/) offers powerful email marketing tools specifically designed for creators and entrepreneurs.
+Building and nurturing an email list remains one of the most effective marketing strategies. [ConvertKit]({{ site.baseurl }}/products/convertkit.html) offers powerful email marketing tools specifically designed for creators and entrepreneurs.
 
 **Key Benefits:**
 - Visual automation builder
