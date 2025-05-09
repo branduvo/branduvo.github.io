@@ -73,7 +73,7 @@ FreshBooks' user-friendly interface makes accounting tasks less daunting, helpin
 
 ## 6. Canva - Design Simplified
 
-Visual content is essential for marketing, but not everyone has design skills. [Canva]({{ site.baseurl }}/products/canva/) democratizes design with templates and drag-and-drop functionality.
+Visual content is essential for marketing, but not everyone has design skills. [Canva]({{ site.baseurl }}/products/canva.html) democratizes design with templates and drag-and-drop functionality.
 
 **Key Benefits:**
 - Professional templates for various platforms
