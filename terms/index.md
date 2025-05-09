@@ -105,7 +105,7 @@ By continuing to access or use our Service after those revisions become effectiv
 
 ## 13. Data Protection
 
-We are committed to protecting and respecting your privacy. Our [Privacy Policy](/privacy) explains how we collect, use, and disclose information that pertains to your privacy, including personal data, and how we protect the privacy and security of such information. By using our Service, you consent to such processing and you warrant that all data provided by you is accurate.
+We are committed to protecting and respecting your privacy. Our [Privacy Policy](/privacy/) explains how we collect, use, and disclose information that pertains to your privacy, including personal data, and how we protect the privacy and security of such information. By using our Service, you consent to such processing and you warrant that all data provided by you is accurate.
 
 ## 14. Contact Us
 
