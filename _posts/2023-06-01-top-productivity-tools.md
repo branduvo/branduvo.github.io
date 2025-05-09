@@ -13,7 +13,7 @@ After testing hundreds of tools and interviewing successful entrepreneurs, we've
 
 ## 1. Calendly - Streamlined Scheduling
 
-Managing meetings can be a huge time drain. The back-and-forth emails trying to find a suitable time slot can eat up hours of your week. [Calendly]({{ site.baseurl }}/products/calendly/) solves this problem by allowing others to book time on your calendar based on your availability.
+Managing meetings can be a huge time drain. The back-and-forth emails trying to find a suitable time slot can eat up hours of your week. [Calendly]({{ site.baseurl }}/products/calendly.html) solves this problem by allowing others to book time on your calendar based on your availability.
 
 **Key Benefits:**
 - Eliminates scheduling emails

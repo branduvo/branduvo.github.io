@@ -11,7 +11,7 @@ excerpt: "Learn how Calendly can eliminate scheduling headaches, reduce administ
 
 The average freelancer spends 4-6 hours per week on what can only be described as "scheduling hell" – the endless back-and-forth emails trying to find meeting times, managing appointment changes, and dealing with timezone confusion. That's potentially 300 hours per year that could be spent on billable work or business development.
 
-Enter [Calendly]({{ site.baseurl }}/products/calendly/), the scheduling automation tool that has transformed from a simple calendar app to an essential productivity hub for freelancers in 2025. By eliminating scheduling friction and automating client interactions, Calendly has become one of the highest-ROI productivity tools in a freelancer's tech stack.
+Enter [Calendly]({{ site.baseurl }}/products/calendly.html), the scheduling automation tool that has transformed from a simple calendar app to an essential productivity hub for freelancers in 2025. By eliminating scheduling friction and automating client interactions, Calendly has become one of the highest-ROI productivity tools in a freelancer's tech stack.
 
 ## The Hidden Productivity Drain of Manual Scheduling
 
@@ -299,7 +299,7 @@ The compound effect of these benefits makes scheduling automation one of the hig
 
 When implemented as a complete system rather than just a scheduling link, Calendly becomes the operational hub that allows you to reclaim your time, focus on your best work, and scale your freelance business without proportionally increasing your administrative burden.
 
-Ready to eliminate scheduling chaos and reclaim hours of productive time each week? [Try Calendly Professional]({{ site.baseurl }}/products/calendly/) and experience the difference that strategic scheduling automation can make for your freelance business.
+Ready to eliminate scheduling chaos and reclaim hours of productive time each week? [Try Calendly Professional]({{ site.baseurl }}/products/calendly.html) and experience the difference that strategic scheduling automation can make for your freelance business.
 
 ---
 
