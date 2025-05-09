@@ -25,7 +25,7 @@ With these benefits in mind, let's explore our top picks for 2023.
 
 ## 1. FreshBooks: Best for Service-Based Businesses
 
-[FreshBooks]({{ site.baseurl }}/products/freshbooks/) consistently ranks as our top recommendation for service-based small businesses, freelancers, and consultants.
+[FreshBooks]({{ site.baseurl }}/products/freshbooks.html) consistently ranks as our top recommendation for service-based small businesses, freelancers, and consultants.
 
 ### Key Strengths:
 - **Exceptional invoice management:** Create professional, customizable invoices with automated payment reminders and online payment options
@@ -193,4 +193,4 @@ Have you had experience with any of these accounting solutions? Share your thoug
 
 ---
 
-*This post contains affiliate links. If you purchase through these links, we may earn a commission at no additional cost to you. See our [affiliate disclaimer]({{ site.baseurl }}/affiliate-disclaimer/) for details.*
+*This post contains affiliate links. If you purchase through these links, we may earn a commission at no additional cost to you. See our [affiliate disclaimer]({{ site.baseurl }}/affiliate-disclaimer.html) for details.*

@@ -170,4 +170,4 @@ Have you tried Canva for your business? What kinds of projects have you created?
 
 ---
 
-*This post contains affiliate links. If you purchase through our links to Canva, we may earn a commission at no additional cost to you. See our [affiliate disclaimer]({{ site.baseurl }}/affiliate-disclaimer/) for details.*
+*This post contains affiliate links. If you purchase through our links to Canva, we may earn a commission at no additional cost to you. See our [affiliate disclaimer]({{ site.baseurl }}/affiliate-disclaimer.html) for details.*
