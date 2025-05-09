@@ -7,7 +7,7 @@ author: "Michael Chen"
 excerpt: "Discover how Canva can revolutionize your marketing efforts and help you create professional designs without graphic design experience."
 ---
 
-When I launched my e-commerce business three years ago, I quickly realized that creating professional-looking visual content was going to be a major challenge. I had big marketing ideas but lacked the design skills and budget to bring them to life. That's when I discovered [Canva]({{ site.baseurl }}/products/canva.html), a tool that completely transformed my approach to business marketing.
+When I launched  Our <a href="why-canva-changed-my-business"> my e-commerce business three years ago, I quickly realized that creating professional-looking visual content was going to be a major challenge. I had big marketing ideas but lacked the design skills and budget to bring them to life. That's when I discovered [Canva]({{ site.baseurl }}/products/canva.html), a tool that completely transformed my approach to business marketing.
 
 In this post, I'll share my personal experience with Canva, highlight its key features, and explain how it can revolutionize your small business marketing too.
 
