@@ -36,15 +36,31 @@ title: Branduvo - Premium Tools for Digital Entrepreneurs
     <div class="products-grid">
       {% for product in site.data.products_featured %}
         <div class="product-item" data-category="{{ product.category | downcase | replace: ' ', '-' }}">
-          {% include product_card.html 
-            name=product.name 
-            image=product.image 
-            description=product.short_description 
-            url=product.url 
-            category=product.category
-            rating=product.rating
-            is_featured=true
-          %}
+          <div class="product-card">
+            <div class="product-badge" data-category="{{ product.category }}">{{ product.category }}</div>
+            <div class="product-image">
+              <img src="{{ site.baseurl }}{{ product.image }}" 
+                   alt="{{ product.name }}"
+                   loading="lazy"
+                   onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.png'">
+            </div>
+            <div class="product-content">
+              <h3 class="product-title">{{ product.name }}</h3>
+              {% if product.rating %}
+              <div class="product-rating">
+                {% for i in (1..5) %}
+                  {% if i <= product.rating %}
+                    <span class="star filled">★</span>
+                  {% else %}
+                    <span class="star">★</span>
+                  {% endif %}
+                {% endfor %}
+              </div>
+              {% endif %}
+              <p class="product-description">{{ product.short_description }}</p>
+              <a href="{{ site.baseurl }}{{ product.url }}" class="product-link">Learn More</a>
+            </div>
+          </div>
         </div>
       {% endfor %}
     </div>
@@ -217,31 +233,121 @@ title: Branduvo - Premium Tools for Digital Entrepreneurs
     transform: translateX(4px);
   }
 
-  /* Make sure your product cards look good in this grid */
-  /* Assuming you want to update your product_card.html as well, here's a hint of what it might look like:
-    <div class="product-card">
-      <div class="product-badge" data-category="{{ category }}">{{ category }}</div>
-      <div class="product-image">
-        <img src="{{ image }}" alt="{{ name }}">
-      </div>
-      <div class="product-content">
-        <h3 class="product-title">{{ name }}</h3>
-        {% if rating %}
-        <div class="product-rating">
-          {% for i in (1..5) %}
-            {% if i <= rating %}
-              <span class="star filled">★</span>
-            {% else %}
-              <span class="star">★</span>
-            {% endif %}
-          {% endfor %}
-        </div>
-        {% endif %}
-        <p class="product-description">{{ description }}</p>
-        <a href="{{ url }}" class="product-link">Learn More</a>
-      </div>
-    </div>
-  */
+  /* Product card styling */
+  .product-card {
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-badge {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background-color: rgba(74, 107, 250, 0.9);
+    color: white;
+    font-size: 0.7rem;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-weight: 500;
+    z-index: 1;
+  }
+  
+  .product-image {
+    height: 180px;
+    position: relative;
+    overflow: hidden;
+    background-color: #f8fafc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .product-image img {
+    max-width: 100%;
+    max-height: 140px;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+  }
+  
+  .product-card:hover .product-image img {
+    transform: scale(1.05);
+  }
+  
+  .product-content {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+  
+  .product-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #1e293b;
+    margin-top: 0;
+    margin-bottom: 8px;
+  }
+  
+  .product-rating {
+    display: flex;
+    gap: 3px;
+    margin-bottom: 12px;
+  }
+  
+  .star {
+    color: #cbd5e1;
+    font-size: 1rem;
+  }
+  
+  .star.filled {
+    color: #facc15;
+  }
+  
+  .product-description {
+    color: #64748b;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-bottom: 16px;
+    flex-grow: 1;
+  }
+  
+  .product-link {
+    display: inline-block;
+    color: #4a6bfa;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 8px 0;
+    position: relative;
+    transition: all 0.2s ease;
+  }
+  
+  .product-link::after {
+    content: "";
+    position: absolute;
+    bottom: 6px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #4a6bfa;
+    transition: width 0.3s ease;
+  }
+  
+  .product-link:hover::after {
+    width: 100%;
+  }
 
   /* Responsive Design */
   @media (max-width: 992px) {
