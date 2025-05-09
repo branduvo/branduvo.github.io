@@ -37,7 +37,7 @@ Notion's versatility makes it ideal for entrepreneurs who want to consolidate th
 
 ## 3. Grammarly - Writing Enhancement
 
-Clear communication is crucial for business success. [Grammarly]({{ site.baseurl }}/products/grammarly/) helps ensure your emails, content, and communications are polished and professional.
+Clear communication is crucial for business success. [Grammarly]({{ site.baseurl }}/products/grammarly.html) helps ensure your emails, content, and communications are polished and professional.
 
 **Key Benefits:**
 - Real-time grammar and spelling corrections
