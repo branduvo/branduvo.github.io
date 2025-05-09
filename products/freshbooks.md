@@ -6,7 +6,7 @@ category: Finance
 rating: 4.7
 affiliate_link: https://www.freshbooks.com/partner/12345
 trial_link: https://www.freshbooks.com/signup
-product_image: <img src="{{ site.baseurl }}/assets/images/products/svg/freshbooks-logo.svg"
+product_image: products/svg/freshbooks-logo.svg
 price_info: |
   **Lite**: $15/month (5 billable clients)
   
