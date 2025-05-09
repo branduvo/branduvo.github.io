@@ -141,4 +141,4 @@ What productivity tools have made the biggest difference in your business? Share
 
 ---
 
-*This post contains affiliate links. If you purchase through these links, we may earn a commission at no additional cost to you. See our [affiliate disclaimer]({{ site.baseurl }}/affiliate-disclaimer.html) for details.*
+*This post contains affiliate links. If you purchase through these links, we may earn a commission at no additional cost to you. See our [affiliate disclaimer]({{ site.baseurl }}/affiliate-disclaimer/) for details.*

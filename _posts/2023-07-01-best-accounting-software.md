@@ -193,4 +193,4 @@ Have you had experience with any of these accounting solutions? Share your thoug
 
 ---
 
-*This post contains affiliate links. If you purchase through these links, we may earn a commission at no additional cost to you. See our [affiliate disclaimer]({{ site.baseurl }}/affiliate-disclaimer.html) for details.*
+*This post contains affiliate links. If you purchase through these links, we may earn a commission at no additional cost to you. See our [affiliate disclaimer]({{ site.baseurl }}/affiliate-disclaimer/) for details.*
