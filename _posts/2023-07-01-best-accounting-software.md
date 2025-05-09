@@ -2,7 +2,7 @@
 layout: post
 title: "5 Best Accounting Software Solutions for Small Businesses in 2023"
 date: 2023-07-01
-categories: [Finance, Business-Tools]
+categories: [Finance, Business Tools]
 author: "Amelia Rodriguez"
 excerpt: "Finding the right accounting software is crucial for small business success. Discover our top picks for 2023 that balance features, usability, and value."
 ---
@@ -25,7 +25,7 @@ With these benefits in mind, let's explore our top picks for 2023.
 
 ## 1. FreshBooks: Best for Service-Based Businesses
 
-[FreshBooks]({{ site.baseurl }}/products/freshbooks.html) consistently ranks as our top recommendation for service-based small businesses, freelancers, and consultants.
+[FreshBooks]({{ site.baseurl }}/products/freshbooks/) consistently ranks as our top recommendation for service-based small businesses, freelancers, and consultants.
 
 ### Key Strengths:
 - **Exceptional invoice management:** Create professional, customizable invoices with automated payment reminders and online payment options
