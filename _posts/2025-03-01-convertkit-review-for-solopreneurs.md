@@ -11,7 +11,7 @@ excerpt: "A comprehensive review of ConvertKit for solopreneurs in 2025. Discove
 
 As a solopreneur in 2025, your email list isn't just another marketing channel—it's likely your most valuable business asset. In an era of algorithm changes, platform shifts, and increasing customer acquisition costs, owning a direct line of communication to your audience has become more valuable than ever.
 
-But with dozens of email marketing platforms available, choosing the right one for your specific needs as a solopreneur can be overwhelming. Today, we're taking a deep dive into [ConvertKit]({{ site.baseurl }}/products/convertkit/), a platform that has positioned itself as "the creator's email marketing platform" to determine if it's worth your investment in 2025.
+But with dozens of email marketing platforms available, choosing the right one for your specific needs as a solopreneur can be overwhelming. Today, we're taking a deep dive into [ConvertKit]({{ site.baseurl }}/products/convertkit.html), a platform that has positioned itself as "the creator's email marketing platform" to determine if it's worth your investment in 2025.
 
 ## Quick Verdict for Busy Solopreneurs
 
@@ -291,7 +291,7 @@ The platform's evolution from simple email marketing to a creator business ecosy
 
 For solopreneurs concerned about the investment, remember that email marketing typically delivers the highest ROI of any digital channel ($36-$45 for every $1 spent according to recent studies). The right platform that improves deliverability, engagement, and conversion can pay for itself many times over.
 
-Ready to transform your email marketing and build stronger audience relationships? [Try ConvertKit free for up to 1,000 subscribers]({{ site.baseurl }}/products/convertkit/) and experience the difference a creator-focused platform can make for your solopreneur business.
+Ready to transform your email marketing and build stronger audience relationships? [Try ConvertKit free for up to 1,000 subscribers]({{ site.baseurl }}/products/convertkit.html) and experience the difference a creator-focused platform can make for your solopreneur business.
 
 ---
 

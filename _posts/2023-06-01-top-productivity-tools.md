@@ -85,7 +85,7 @@ With Canva, entrepreneurs can create professional-looking marketing materials, s
 
 ## 7. ConvertKit - Email Marketing
 
-Building and nurturing an email list remains one of the most effective marketing strategies. [ConvertKit]({{ site.baseurl }}/products/convertkit/) offers powerful email marketing tools specifically designed for creators and entrepreneurs.
+Building and nurturing an email list remains one of the most effective marketing strategies. [ConvertKit]({{ site.baseurl }}/products/convertkit.html) offers powerful email marketing tools specifically designed for creators and entrepreneurs.
 
 **Key Benefits:**
 - Visual automation builder
