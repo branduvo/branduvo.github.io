@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "10 Essential Productivity Tools That Every Digital Entrepreneur Needs 3"
-date: 2025-02-16
 categories: [Productivity, Business]
 author: "Sarah Johnson"
 excerpt: "Discover the top productivity tools that can transform your workflow and help you get more done in less time."
