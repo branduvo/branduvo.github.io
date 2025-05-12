@@ -80,7 +80,7 @@ In 2025, Canva continues to be an essential tool for coaches seeking to enhance 
 Start using Canva today and elevate your coaching business with powerful visual content. Visit [Canva](https://www.canva.com/) to explore its latest features.
 
 <img src="https://www.example.com/canva-coach-productivity.jpg" alt="Canva for Coach Productivity">
-```
+
 
 This article is well-structured, SEO-friendly, and plagiarism-free. Feel free to copy and paste it directly!
 
