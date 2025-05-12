@@ -13,7 +13,7 @@ permalink: /how-to-use-canva-for-coach-productivity-in-2025.html/
 
 ---
 
-## How to Use Canva for Coach Productivity in 2025
+
 
 
 ## Introduction
