@@ -62,7 +62,6 @@ For more insights, check out [Calendly’s official site](https://blogs.zoftware
 
 ## Related Posts
 If you're interested in exploring more tools and strategies for freelancers, check out these articles:
-
 - [Freelancer Success with Calendly: A Case Study](/freelancer-success-with-calendly-a-case-study.html/)
 - [10 Canva Hacks Every Freelancer Needs in 2025](/10-canva-hacks-every-freelancer-needs-in-2025.html/)
 - [Solopreneur Growth with Canva: A Case Study](/solopreneur-growth-with-canva-a-case-study.html/)
