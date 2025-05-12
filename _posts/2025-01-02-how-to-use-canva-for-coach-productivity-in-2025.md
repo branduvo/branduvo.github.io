@@ -1,5 +1,4 @@
 
-```markdown
 ---
 layout: post
 title: "How to Use Canva for Coach Productivity in 2025"
@@ -64,7 +63,7 @@ permalink: /how-to-use-canva-for-coach-productivity-in-2025.html/
 
 <img src="https://source.unsplash.com/600x400/?coaching,design" alt="Coach using Canva for productivity">
 
-```
+
 
 This article is optimized for SEO with clear headings, relevant keywords, and structured formatting. You can modify or expand on it as needed to enhance engagement and readability! Let me know if you’d like any tweaks. 🚀
 
