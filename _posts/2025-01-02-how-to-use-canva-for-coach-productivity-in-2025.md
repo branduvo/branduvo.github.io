@@ -10,11 +10,11 @@ layout: post
 meta-description: Find out how Canva can streamline your work as a coach in 2025 with
   our comprehensive guide.
 permalink: /how-to-use-canva-for-coach-productivity-in-2025.html/
-title: How to Use Canva for Coach Productivity in 2025
+#  title: How to Use Canva for Coach Productivity in 2025
 ---
 
 
-# How to Use Canva for Coach Productivity in 2025
+
 
 ## Introduction
 
