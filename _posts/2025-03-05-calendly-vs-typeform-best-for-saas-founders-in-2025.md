@@ -102,7 +102,7 @@ Choose Typeform if your focus is on:
 
 - Leveraging AI to gain insights from open-ended responses.
 
-- Customizing forms to align with your brand's identity.
+- Personalizing forms to match your brand's identity.
 
 ---
 
