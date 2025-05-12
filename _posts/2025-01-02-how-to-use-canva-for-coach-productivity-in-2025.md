@@ -1,17 +1,4 @@
----
-author: Bob Johnson
-categories:
-- Productivity
-- Business
-date: 2025-01-02
-excerpt: Enhance your productivity as a coach with Canva in 2025. Learn the best practices
-  for creating visual content.
-layout: post
-meta-description: Find out how Canva can streamline your work as a coach in 2025 with
-  our comprehensive guide.
-permalink: /how-to-use-canva-for-coach-productivity-in-202.html/
 
----
 
 
 
