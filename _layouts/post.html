@@ -38,9 +38,9 @@ layout: default
           <p><strong>Affiliate Disclosure:</strong> {{ page.affiliate_disclosure }}</p>
         </div>
       {% else %}
-        <div class="affiliate-notice">
-          <p><strong>Affiliate Disclosure:</strong> This post may contain affiliate links. We may earn a commission if you make a purchase through these links in <a href="{{ post.url | relative_url }}">{{ post.title }}</a> , at no additional cost to you. Please see our Affiliate Disclaimer for more details.</p>
-        </div>
+      <div class="affiliate-notice">
+        <p><strong>Affiliate Disclosure:</strong> This {{ post.title | downcase | replace: 'post', 'article' }} may contain affiliate links. We may earn a commission if you make a purchase through these links in {{ post.title }}, at no additional cost to you. Please see our <a href="/affiliate-disclaimer/">Affiliate Disclaimer</a> for more details.</p>
+      </div>
       {% endif %}
       
       {% if site.related_posts.size > 0 %}
