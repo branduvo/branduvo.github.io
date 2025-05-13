@@ -72,7 +72,7 @@ For SaaS founders aiming to establish a strong brand presence and streamline the
 
 ## Call to Action
 
-Explore the full potential of Canva's design suite and FreshBooks' accounting platform to elevate your SaaS business. Visit [Canva's official website](https://www.canva.com/) and [FreshBooks' official website](https://www.freshbooks.com/) to learn more about their offerings and how they can support your business growth.
+Explore the full potential of Canva's design suite and FreshBooks' accounting platform to elevate your SaaS business. Visit [Canva's official website](https://www.canva.com/en_gb/) and [FreshBooks' official website](https://www.freshbooks.com/) to learn more about their offerings and how they can support your business growth.
 
 --- next
 

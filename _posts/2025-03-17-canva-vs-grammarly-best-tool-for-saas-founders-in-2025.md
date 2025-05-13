@@ -107,7 +107,7 @@ In many cases, utilizing both tools in tandem can provide a comprehensive soluti
 
 In 2025, both Canva and Grammarly stand out as essential tools for SaaS founders. By integrating these platforms into your workflow, you can enhance both the visual appeal and the clarity of your content, leading to more effective communication and a stronger brand presence.
 
-**Call to Action**: Explore [Canva](https://www.canva.com/) and [Grammarly](https://www.grammarly.com/) today to discover how these tools can elevate your SaaS business. Consider starting with their free plans to experience the benefits firsthand.
+**Call to Action**: Explore [Canva](https://www.canva.com/en_gb/) and [Grammarly](https://www.grammarly.com/) today to discover how these tools can elevate your SaaS business. Consider starting with their free plans to experience the benefits firsthand.
 
 ---
 

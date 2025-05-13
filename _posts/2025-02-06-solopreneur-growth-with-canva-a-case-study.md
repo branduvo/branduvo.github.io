@@ -77,7 +77,7 @@ Canva has become an indispensable tool for solopreneurs aiming to enhance their 
 
 Start your Canva journey today—experiment with **brand templates**, explore **Canva Pro**, and unlock design efficiency that fuels business success.
 
-For more insights, visit **[Canva’s official website](https://www.canva.com/)** or explore **[HubSpot’s guide to branding](https://blog.hubspot.com/marketing/brand-strategy)**.
+For more insights, visit **[Canva’s official website](https://www.canva.com/en_gb/)** or explore **[HubSpot’s guide to branding](https://blog.hubspot.com/marketing/brand-strategy)**.
 
 ---
 

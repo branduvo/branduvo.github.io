@@ -107,7 +107,7 @@ In 2025, coaches need to be efficient, organized, and visually appealing in thei
 ---
 
 For further reading, check out Canva's official resources:  
-[Canva Design Tools](https://www.canva.com/)  
+[Canva Design Tools](https://www.canva.com/en_gb/)  
 [Canva for Teams](https://www.canva.com/teams/)  
 
 ---
