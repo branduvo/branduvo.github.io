@@ -84,7 +84,6 @@ If you're interested in exploring more tools and strategies for coaches, check o
 - [ConvertKit Review for Coaches in 2025: Is It Worth It?](/convertkit-review-for-coaches-in-2025-is-it-worth-it.html/)
 - [10 ConvertKit Hacks for SaaS Founders in 2025](/10-convertkit-hacks-for-saas-founders-in-2025.html/)
 - [Freelancer Growth with ConvertKit: A Case Study](/freelancer-growth-with-convertkit-a-case-study.html/)
-- [ConvertKit vs Canva: Best Tool for Coaches in 2025](/convertkit-vs-canva-best-tool-for-coaches-in-2025.html/)
 - [ConvertKit vs FreshBooks: Best for Coaches in 2025](/convertkit-vs-freshbooks-best-for-coaches-in-2025.html/)
 - [ConvertKit vs Grammarly: Best for Coaches in 2025](/convertkit-vs-grammarly-best-for-coaches-in-2025.html/)
 - [ConvertKit vs Typeform: Best for Coaches in 2025](/convertkit-vs-typeform-best-for-coaches-in-2025.html/)
