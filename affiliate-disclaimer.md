@@ -3,6 +3,7 @@ layout: page
 title: Affiliate Disclaimer
 description: "Learn how Branduvo uses affiliate links to support our mission while maintaining transparency and trust with our audience."
 permalink: /affiliate-disclaimer/
+robots: noindex
 ---
 
 <h2 id="introduction">Introduction</h2>
