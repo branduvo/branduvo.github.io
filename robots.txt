@@ -12,8 +12,11 @@ Disallow: /node_modules/
 
 # Block unnecessary file types
 Disallow: /*.json$
-Disallow: /*.xml$
 Disallow: /*.log$
+
+# Block XML files except for sitemap.xml
+Disallow: /*.xml$
+Allow: /sitemap.xml
 
 # Optional: Block the feed if not needed for indexing
 Disallow: /feed.xml
@@ -24,4 +27,4 @@ Disallow: /affiliate-disclaimer/
 # Sitemap to aid crawling
 Sitemap: https://branduvo.com/sitemap.xml
 
-# File generated on: Tuesday, May 13, 2025, 10:05 AM CET
+# File updated on: Tuesday, May 13, 2025, 10:10 AM CET
