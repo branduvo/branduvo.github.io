@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+# Block drafts or temporary files if they exist
+Disallow: /_drafts/
+Disallow: /_posts/drafts/
+
+# Block internal Jekyll directories that don't need crawling
+Disallow: /_site/
+Disallow: /vendor/
+Disallow: /node_modules/
+
+# Block unnecessary file types
+Disallow: /*.json$
+Disallow: /*.xml$
+Disallow: /*.log$
+
+# Optional: Block the feed if not needed for indexing
+Disallow: /feed.xml
+
+# Block affiliate disclaimer page to optimize crawl budget
+Disallow: /affiliate-disclaimer/
+
+# Sitemap to aid crawling
+Sitemap: https://branduvo.com/sitemap.xml
+
+# File generated on: Tuesday, May 13, 2025, 10:05 AM CET
