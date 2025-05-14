@@ -7,7 +7,7 @@ permalink: /about/
 
 
 <h2 id="our-mission">Our Mission</h2>
-<p>At Branduvo, we're on a mission to empower digital entrepreneurs and creative professionals with carefully curated tools and resources that drive real business growth. As a division of Daxirush Ltd, we combine industry expertise with rigorous testing to identify solutions that truly deliver on their promises.</p>
+<p>At Branduvo, we're on a mission to empower digital entrepreneurs and creative professionals with carefully curated tools and resources that drive real business growth.  we combine industry expertise with rigorous testing to identify solutions that truly deliver on their promises.</p>
 
 <h2 id="who-we-are">Who We Are</h2>
 <p>Founded in 2022, Branduvo emerged from a simple observation: digital entrepreneurs and creators were overwhelmed by choice but underwhelmed by guidance. Our team of digital marketing specialists, software developers, and content creators came together with a shared vision—to create a trusted resource that cuts through the noise.</p>
@@ -116,7 +116,4 @@ permalink: /about/
     <span>LinkedIn</span>
   </a>
 </div>
-
-<h2 id="branduvo-a-daxirush-ltd-brand">Branduvo: A Daxirush Ltd Brand</h2>
-<p>Branduvo operates as a specialized division of Daxirush Ltd, a UK-based digital media and technology company established in 2019. Daxirush Ltd brings extensive resources and expertise to Branduvo, enabling us to maintain the highest standards of quality and reliability in our recommendations.</p>
 
