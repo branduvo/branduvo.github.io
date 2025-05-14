@@ -10,7 +10,7 @@ permalink: /terms/
 
 Last Updated: May 8, 2025
 
-Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Branduvo website (the "Service") operated by Daxirush Ltd ("us", "we", or "our").
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Branduvo website("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.
 
@@ -22,11 +22,11 @@ By accessing or using the Service, you agree to be bound by these Terms. If you 
 
 "User" means any individual who accesses or uses the Service.
 
-"Daxirush Ltd" refers to the company that owns and operates the Branduvo Service.
+
 
 ## 2. Access and Use of the Service
 
-Our Service allows you to browse information and reviews about various products and services. The content found on or through this Service is the property of Daxirush Ltd or used with permission. You may not distribute, modify, transmit, reuse, download, repost, copy, or use said content, whether in whole or in part, for commercial purposes or for personal gain, without express advance written permission from us.
+Our Service allows you to browse information and reviews about various products and services.  You may not distribute, modify, transmit, reuse, download, repost, copy, or use said content, whether in whole or in part, for commercial purposes or for personal gain, without express advance written permission from us.
 
 ## 3. Affiliate Disclosure
 
@@ -34,13 +34,13 @@ Branduvo participates in various affiliate marketing programs, which means we ma
 
 ## 4. User Contributions
 
-Certain parts of the Service may allow you to post comments, provide feedback, or submit suggestions ("Contributions"). By providing Contributions, you grant Daxirush Ltd a non-exclusive, worldwide, royalty-free, perpetual, irrevocable license to use, reproduce, modify, adapt, publish, translate, distribute, and display such Contributions in any media.
+Certain parts of the Service may allow you to post comments, provide feedback, or submit suggestions ("Contributions"). By providing Contributions, you grant Branduvo a non-exclusive, worldwide, royalty-free, perpetual, irrevocable license to use, reproduce, modify, adapt, publish, translate, distribute, and display such Contributions in any media.
 
 You are responsible for the content of your Contributions. Contributions must not:
 - Contain illegal, abusive, defamatory, obscene, or otherwise objectionable content
 - Include any viruses, malware, spyware, or other harmful code
 - Infringe any intellectual property rights
-- Falsely imply sponsorship or endorsement by Branduvo or Daxirush Ltd
+- Falsely imply sponsorship or endorsement by Branduvo 
 - Contain false or misleading information
 - Violate any person's privacy or data protection rights
 - Advertise products or services without our explicit permission
@@ -56,15 +56,15 @@ Product specifications, prices, and availability can change, and we cannot guara
 
 ## 6. Third-Party Links and Services
 
-Our Service may contain links to third-party websites or services that are not owned or controlled by Daxirush Ltd.
+Our Service may contain links to third-party websites or services that are not owned or controlled by branduvo.
 
-Daxirush Ltd has no control over and assumes no responsibility for the content, privacy policies, or practices of any third-party websites or services. You further acknowledge and agree that Daxirush Ltd shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods, or services available on or through any such websites or services.
+Branduvo has no control over and assumes no responsibility for the content, privacy policies, or practices of any third-party websites or services. You further acknowledge and agree that Branduvo shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods, or services available on or through any such websites or services.
 
 We strongly advise you to read the terms of service and privacy policies of any third-party websites or services that you visit.
 
 ## 7. Intellectual Property Rights
 
-The Service and its original content (excluding Contributions provided by users), features, and functionality are and will remain the exclusive property of Daxirush Ltd and its licensors. The Service is protected by copyright, trademark, and other laws of both the United Kingdom and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Daxirush Ltd.
+The Service and its original content (excluding Contributions provided by users), features, and functionality are and will remain the exclusive property of Branduvo and its licensors. The Service is protected by copyright, trademark, and other laws of both the United Kingdom and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Branduvo.
 
 ## 8. Termination
 
@@ -74,7 +74,7 @@ Upon termination, your right to use the Service will immediately cease.
 
 ## 9. Limitation of Liability
 
-To the maximum extent permitted by applicable law, in no event shall Daxirush Ltd, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from:
+To the maximum extent permitted by applicable law, in no event shall Branduvo, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from:
 - Your access to or use of or inability to access or use the Service
 - Any conduct or content of any third party on the Service
 - Any content obtained from the Service
@@ -85,7 +85,7 @@ To the maximum extent permitted by applicable law, in no event shall Daxirush Lt
 
 Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement, or course of performance.
 
-Daxirush Ltd, its subsidiaries, affiliates, and its licensors do not warrant that:
+Branduvo, its subsidiaries, affiliates, and its licensors do not warrant that:
 - The Service will function uninterrupted, secure, or available at any particular time or location
 - Any errors or defects will be corrected
 - The Service is free of viruses or other harmful components
@@ -113,4 +113,4 @@ If you have any questions about these Terms, please contact us at legal@branduvo
 
 ---
 
-© 2025 Daxirush Ltd. All rights reserved.
+© 2025 Branduvo. All rights reserved.
