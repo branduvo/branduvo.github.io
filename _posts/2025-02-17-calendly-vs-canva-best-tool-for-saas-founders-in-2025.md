@@ -78,6 +78,16 @@ Canva is a user-friendly graphic design tool that empowers SaaS founders to crea
 | Client Engagement | ✅ Yes | ✅ Yes |  
 | Payment Integration | ✅ Yes | ❌ No |  
 
+
+| Feature                     | Calendly | Canva  |
+|-----------------------------|----------|--------|
+| Scheduling & Time Management | ✅ Yes   | ❌ No  |
+| Branding & Design           | ❌ No    | ✅ Yes |
+| Team Collaboration           | ✅ Yes   | ✅ Yes |
+| Automation                  | ✅ Yes   | ❌ No  |
+| Client Engagement            | ✅ Yes   | ✅ Yes |
+| Payment Integration          | ✅ Yes   | ❌ No  |
+
 ### **Which Tool is Best for SaaS Founders?**  
 The choice between Calendly and Canva depends on your primary needs:  
 - If **time management and scheduling** are your top priorities, **Calendly** is the clear winner.  
