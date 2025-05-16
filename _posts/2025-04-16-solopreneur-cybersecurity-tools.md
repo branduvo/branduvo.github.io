@@ -1,5 +1,6 @@
 ---
-author: David Lee # Author 3
+
+author: David Wilson 
 categories:
 - Cybersecurity
 - Solopreneurship
