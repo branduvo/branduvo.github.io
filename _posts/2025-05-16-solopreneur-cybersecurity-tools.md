@@ -48,5 +48,4 @@ If you're interested in exploring more tools and strategies for solopreneurs, ch
 - [FreshBooks Review for Solopreneurs in 2025: Worth It?](/freshbooks-review-for-solopreneurs-in-2025-worth-it.html/)
 - [Solopreneur Success with Grammarly: A Case Study](/solopreneur-success-with-grammarly-a-case-study.html/)
 - [Solopreneur Growth with Typeform: A Case Study](/solopreneur-growth-with-typeform-a-case-study.html/)
-- [Grammarly Review for Solopreneurs in 2025: Worth It?](/grammarly-review-for-solopreneurs-in-2025-worth-it.html/)
 - [10 Typeform Hacks for Solopreneurs in 2025](/10-typeform-hacks-for-solopreneurs-in-2025.html/)
