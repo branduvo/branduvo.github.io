@@ -40,7 +40,6 @@ If you're interested in exploring more tools and strategies for solopreneurs, ch
 - [Building Your 2025 Solopreneur Tech Stack: Essential Tools for Growth and Efficiency](/solopreneur-tech-stack-tools.html/)
 - [Fortify Your Fortress: Essential Cybersecurity Strategies and Tools for Solopreneurs in 2025](/solopreneur-cybersecurity-tools.html/)
 - [Why Calendly Is Essential for Solopreneurs in 2025](/why-calendly-is-essential-for-solopreneurs-in-2025.html/)
-- [How to Use Canva for Solopreneur Productivity in 2025](/how-to-use-canva-for-solopreneur-productivity-in-2025.html/)
 - [10 Canva Hacks for Solopreneurs in 2025](/10-canva-hacks-for-solopreneurs-in-2025.html/)
 - [How to Use ConvertKit for Solopreneur Productivity in 2025](/how-to-use-convertkit-for-solopreneur-productivity-in-2025.html/)
 - [ConvertKit Review for Solopreneurs in 2025: Worth It?](/convertkit-review-for-solopreneurs-in-2025-worth-it.html/)
