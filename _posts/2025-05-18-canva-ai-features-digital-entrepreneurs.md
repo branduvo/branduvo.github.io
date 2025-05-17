@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Canva AI Features for Digital Entrepreneurs"
-date: 2025-05-18 00:00:00 +0000
+date: 2025-05-17 23:00:00 +0000
 categories: canva ai digital-entrepreneurs
 permalink: /canva-ai-features-digital-entrepreneurs.html
 excerpt: "Discover how Canva’s new AI-powered features can boost creativity and productivity for digital entrepreneurs."
