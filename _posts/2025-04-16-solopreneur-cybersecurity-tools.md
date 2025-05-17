@@ -4,7 +4,7 @@ author: David Wilson
 categories:
 - Cybersecurity
 - Solopreneurship
----
+
 layout: post
 title: Fortify Your Fortress: Essential Cybersecurity Strategies and Tools for Solopreneurs in 2025
 date: 2025-05-16 # Assigned 16th May
