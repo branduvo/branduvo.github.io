@@ -9,7 +9,7 @@ date: 2025-05-19
 excerpt: Discover how Canva's AI features are transforming design workflows for digital entrepreneurs in 2025.
 layout: post
 meta-description: Learn how Canva's advanced AI capabilities are revolutionizing design processes for digital entrepreneurs, enabling professional-quality visuals with unprecedented efficiency and creativity.
-permalink:/canva-ai-features-digital-entrepreneurs.html/
+permalink: /canva-ai-features-digital-entrepreneurs.html
 title: 'Canva AI Features: Transforming Design Workflows for Digital Entrepreneurs'
 ---
 
