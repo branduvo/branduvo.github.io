@@ -1,10 +1,10 @@
 ---
 author: David Wilson
 categories:
-- Cybersecurity
-- Solopreneurship
-- Technology
-date:2025-05-17
+  - Cybersecurity
+  - Solopreneurship
+  - Technology
+date: 2025-05-17
 excerpt: Learn essential cybersecurity strategies and tools every solopreneur needs to protect their business in 2025.
 layout: post
 meta-description: Protect your solopreneur business in 2025. Explore essential cybersecurity strategies and tools to fortify your online presence.
