@@ -5,7 +5,7 @@ categories:
   - Automation
   - Solopreneurship
   - Productivity
-date: 2025-05-16
+date: 2025-05-17
 excerpt: Learn essential ConvertKit automation workflows that every solopreneur needs to implement in 2025 for maximum efficiency and growth.
 layout: post
 meta-description: Discover how to master ConvertKit automation with essential workflows for solopreneurs in 2025, saving time while nurturing subscriber relationships and driving conversions.
