@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Securing Your Digital Business: Essential Privacy Tools for Solopreneurs in 2025"
-date: 2025-05-19 10:00:00 +0000
+date: 2025-05-12 10:00:00 +0000
 author: David Wilson
 categories: [Cybersecurity, Privacy, Digital Business, Solopreneurship]
 tags: [privacy, security, solopreneur, digital-tools, data-protection]
